@@ -1,0 +1,1 @@
+Node.js (v18.19.1), npm (9.2.0), npx (9.2.0), Yarn (1.22.22), and TypeScript (5.8.3) are installed. Retrieved dependency requirement for express@4.21.2, but it is not required for the frontend-only project, so no additional packages installed yet. All necessary tools for a TypeScript web frontend are present.
